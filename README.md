@@ -12,4 +12,4 @@ imdbpie
 
 *******
 Ambition
-Get ratings for the movies of a particular actor and compare them on the basis of genres to see if there's any relation e.g. Do Denzel's movies get better ratings they are action movies as opposed to say, romance flicks?.How much do co-starts influence ratings?
+Get ratings for the movies of a particular actor and compare them on the basis of genres to see if there's any relation e.g. Do Denzel's movies get better ratings if they are action movies as opposed to say, romance flicks?How much do co-stars influence ratings?
